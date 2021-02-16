@@ -20,3 +20,5 @@ SLEEP_LED_ENABLE = no    # Breathing sleep LED during USB suspend
 
 SPLIT_KEYBOARD = yes
 
+MCU = atmega32u4
+BOOTLOADER = caterina
